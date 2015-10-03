@@ -1,0 +1,21 @@
+[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
+
+Rename-Item -Path .\lpdhw -NewName lpthw
+
+https://docs.python.org/2/contents.html
+
+pydoc raw_input
+
+Windows:
+python -m pydoc raw_input
+
+r - read
+r+ - read + write
+
+w - truncate, write
+w+ - truncate, read + write
+
+a - append, write
+a+ - append, read + write
+
+domyślnie r dla open
