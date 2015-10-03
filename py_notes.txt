@@ -19,3 +19,5 @@ a - append, write
 a+ - append, read + write
 
 domyślnie r dla open
+
+type (Get-Content) zamiast cat
