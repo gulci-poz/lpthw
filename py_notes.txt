@@ -21,3 +21,10 @@ a+ - append, read + write
 domyślnie r dla open
 
 type (Get-Content) zamiast cat
+
+Tutoriale:
+https://docs.djangoproject.com/en/1.8/intro/tutorial01/
+www.tangowithdjango.com/book17/
+tutorial.djangogirls.org/en/
+twoscoopspress.org
+http://www.marinamele.com/taskbuster-django-tutorial
