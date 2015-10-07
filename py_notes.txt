@@ -1,3 +1,12 @@
+1. Dokończyć lpthw
+--> potem learn py + programming py
+GRUNTOWNIE!
+2. Two Scoops of Django
+--> najpierw tutorial
+3. Data + Viz
+
+--------------------------------------------------
+
 [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python27", "User")
 
 Rename-Item -Path .\lpdhw -NewName lpthw
@@ -28,3 +37,12 @@ www.tangowithdjango.com/book17/
 tutorial.djangogirls.org/en/
 twoscoopspress.org
 http://www.marinamele.com/taskbuster-django-tutorial
+
+Fat Models, Utility Modules, This Views, Stupid Templates
+jak najmniej ligiki to Views i Templates
+
+Filozofie designu Django
+https://docs.djangoproject.com/en/1.8/misc/design-philosophies/
+http://12factor.net/
+
+https://www.youtube.com/watch?v=RrPZza_vZ3w
