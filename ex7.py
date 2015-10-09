@@ -16,6 +16,7 @@ for line in txt:
 line = txt.readline()
 
 # jeśli napotkamy EOF, to zwracany jest pusty string
+# można też przetestować while (line): bo linia i tak jest pusta
 while line != '':
 	print line,
 	line = txt.readline()
